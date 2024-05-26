@@ -1,4 +1,4 @@
-## DataScience Fall 2021 Final Project
+## Analyzing COVID-19 Impact on NYC Public Transit
 View [website](https://tanveerm176.wixsite.com/data-viz) for a more comprehensive analysis and breakdown of the project.
 
 ### Overview
