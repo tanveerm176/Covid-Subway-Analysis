@@ -9,13 +9,13 @@ These techniques/methods were accomplished using the following libraries: Matplo
 ### Visualizations
 
 Cases and NYC Ridership:
-![Cases and NYC Ridership](https://github.com/tanveerm176/Covid-Subway-Analysis/blob/main/images/fig1.png)
+![Cases and NYC Ridership](images\cases-subway-ridership.png)
 
 Vaccines and NYC Ridership:
-![Vaccines and NYC Ridership](https://github.com/tanveerm176/Covid-Subway-Analysis/blob/main/images/fig2.png)
+![Vaccines and NYC Ridership](images\vaccines-subway-ridership.png)
 
 Fitting the SARIMA model to the data:
-![SARIMA Model fit](https://github.com/tanveerm176/Covid-Subway-Analysis/blob/main/images/sarima_forecast_21.png)
+![SARIMA Model fit](images\sarima_forecast_21.png)
 
 The final SARIMA model forecasting:
-![SARIMA Forecasting](https://github.com/tanveerm176/Covid-Subway-Analysis/blob/main/images/comapare_forecast.png)
+![SARIMA Forecasting](images\final-model-forecasting-and-comparison.png)
