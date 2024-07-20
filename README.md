@@ -9,13 +9,13 @@ These techniques/methods were accomplished using the following libraries: Matplo
 ### Visualizations
 
 Cases and NYC Ridership:
-![Cases and NYC Ridership](images\cases-subway-ridership.png)
+![Cases and NYC Ridership](./images/cases-subway-ridership.png)
 
 Vaccines and NYC Ridership:
-![Vaccines and NYC Ridership](images\vaccines-subway-ridership.png)
+![Vaccines and NYC Ridership](./images/vaccines-subway-ridership.png)
 
 Fitting the SARIMA model to the data:
-![SARIMA Model fit](images\sarima_forecast_21.png)
+![SARIMA Model fit](./images/sarima_forecast_21.png)
 
 The final SARIMA model forecasting:
-![SARIMA Forecasting](images\final-model-forecasting-and-comparison.png)
+![SARIMA Forecasting](./images/final-model-forecasting-and-comparison.png)
